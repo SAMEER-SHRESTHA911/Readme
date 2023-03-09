@@ -1,4 +1,4 @@
-﻿# The Dorm Den  ?logo=the dorm den
+﻿# The Dorm Den  
 
 A Hostel Web Portal using MERN stack
 
